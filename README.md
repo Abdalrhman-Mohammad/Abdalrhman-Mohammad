@@ -5,7 +5,7 @@
 
 * 🌱 I’m currently learning **REACT-NATIVE**
 * 🌍  I'm based in Palestine - Tulkarm
-* ✉️  You can contact me at [abdabood2664@gmail.com](mailto:abdabood2664@gmail.com)
+* ✉️  You can contact me at [janemabdalrhman@gmail.com](mailto:janemabdalrhman@gmail.com)
 * ⚡   Fun fact : I focus on creating high-performance programs
  
 <h3 align="left">Connect with me:</h3>
