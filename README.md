@@ -3,9 +3,7 @@
 <h3 align="center">Compatitive Programmer | Mobile Developer | Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrhman-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhman-mohammad" /> </p>
 
-<!--
-* 🌱 I’m currently learning **BACKEND**
--->
+* 🌱 I’m currently learning **REACT-NATIVE**
 * 🌍  I'm based in Palestine - Tulkarm
 * ✉️  You can contact me at [abdabood2664@gmail.com](mailto:abdabood2664@gmail.com)
 * ⚡   Fun fact : I focus on creating high-performance programs
