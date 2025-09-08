@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdalrhman Janem</h1>
 =======================================================================================================
-<h3 align="center">Compatitive Programmer | Frontend Web Developer | Software Engineer</h3>
+<h3 align="center">Compatitive Programmer | Full Stack Web Developer | Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrhman-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhman-mohammad" /> </p>
 
-* 🌱 I’m currently learning **Frontend Web Developing**
+* 🌱 I’m currently learning ** Full Stack Web Developing**
 * 🌍  I'm based in Palestine - Tulkarm
 * ✉️  You can contact me at [janemabdalrhman@gmail.com](mailto:janemabdalrhman@gmail.com)
 * ⚡   Fun fact : I focus on creating high-performance programs
